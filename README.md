@@ -1,5 +1,7 @@
 # Prophet-Challenge
 
+I worked with Duane Anglin, ChatGPT, and tutor Mohammed Fauwaaz in a Tutor Session on BSC to complete this assignment.
+
 ## Overview
 - To fulfill the responsibility as a growth analyst at Mercado Libre of analyzing the company's financials and search trends to determine if there is a way to predict how to make the company grow.
 
