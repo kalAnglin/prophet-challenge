@@ -1,9 +1,7 @@
 # Prophet-Challenge
 
 ## Overview
-- 
-
-
+- To fulfill the responsibility as a growth analyst at Mercado Libre of analyzing the company's financials and user data to determine if there is a way to predict how to make the company 
 ## Purpose
 
 ## Business Advantage
