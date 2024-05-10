@@ -12,6 +12,8 @@
 ## Landscape
 - Time series models play a role in different sectors of business and innovation, including Healthcare, Agriculture, Finance, Cybersecurity, and Retail.
 
+![forecast_mercado_trends](images/forecast_mercado_trends.png)
+
 ## Results
 1. By calculating the total search traffic for the month, and comparing it with the value to the monthly median across all months, it became evident the Google search traffic increase during the month of May, the month MercadoLibre released its financial results.
 2. By tracking the patterns of interest in the company and it's platform based on hours, days, and weeks, it became evident the search trends start to increase around 9am, with Monday & Tuesday being the days with the most traffic, and an increase in trends right before the certain weeks throughtout the year which correspond with holiday seasons.
