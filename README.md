@@ -6,7 +6,9 @@ I worked with Duane Anglin, ChatGPT, and tutor Mohammed Fauwaaz in a Tutor Sessi
 - To fulfill the responsibility as a growth analyst at Mercado Libre of analyzing the company's financials and search trends to determine if there is a way to predict how to make the company grow.
 
 ## Purpose
-- To determine the accurary of a Prophet Time Series Model in terms of predicing future growth for Mercado Libre company by comparing the predictions to data exploration centered around finding patterns in the hourly google search traffic, determining whether there is correlation between the search traffic and seasonaliity, and relating the search traffic to stock price patterns.
+- To determine the accuracy of a Prophet Time Series Model in terms of predicing future growth for Mercado Libre company by comparing the predictions to data exploration centered around finding patterns in the hourly google search traffic, determining whether there is correlation between the search traffic and seasonaliity, and relating the search traffic to stock price patterns.
+
+![forecast_mercado_trends](images/forecast_mercado_trends.png)
   
 ## Business Advantage [^1]
 - Time series models offer several advantages related to determining patterns and forecasting future trends. Because businesses rely on repetitive behavior as the basis for revenue, time series models can assist with predicting how future trends may develop ensure good financial health, explore new markets, and restock inventory.
@@ -16,7 +18,7 @@ I worked with Duane Anglin, ChatGPT, and tutor Mohammed Fauwaaz in a Tutor Sessi
 
 ## Results
 
-![forecast_mercado_trends](images/forecast_mercado_trends.png)
+![Pearson Correlation Coefficient](images/Correlation_Coefficient.png)
 
 1. By calculating the total search traffic for the month, and comparing it with the value to the monthly median across all months, it became evident the Google search traffic increase during the month of May, the month MercadoLibre released its financial results.
 2. By tracking the patterns of interest in the company and it's platform based on hours, days, and weeks, it became evident the search trends start to increase around 9am, with Monday & Tuesday being the days with the most traffic, and an increase in trends right before the certain weeks throughtout the year which correspond with holiday seasons.
