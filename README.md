@@ -21,7 +21,7 @@
 - In regards to predictability, the creation of a correlation matrix made it evident that there is slight correlation between search trends and stock volatility. This correlation is negative, meaning as search trends increases, stock volatility will decreases. The matrix also showed a very small, positive correlation betweeen search trends and hour stock return, meaning as increases in search trends resulted in small increases in houly returns, however given how close the correlation is to 0, a definitive prediction cannot be confirmed.
 - The creation of a time series model to forecast near-term popularity of MercadoLibe based on hours proved difficult. The model was better at forecasting data based on days, providing a forecast trend  that showed a dip in search traffic through the 80 day (2000hrs) prediction period. Plotting the components of the forecast confirmed that on Tuesdays from 10am - 1pm and 10pm - 12am, MercadoLibre is the most popular per the search trends. The plot of the components also showed Mid-October as the lowest point for search traffic in the calendar, which corresponds with the celebration Hispanic Heritage Month from September 15 <sup>th</sup> to October 15 <sup>th</sup>.
 
-** Recommendations
+## Recommendations
  Explore a time series forecast during the part of the year that doesn't coincide with the Hispanice Heritage month to determine if the trends can be explained without the presence of a seasonal holiday.
 
  [^1]: https://builtin.com/data-science/time-series-model
